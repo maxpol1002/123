@@ -1,2 +1,2 @@
 def rofl():
-    print()
+    print("1")
